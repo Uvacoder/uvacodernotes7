@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: images/IMG_5783.jpg
+heroImage: images/avatar.jpg
 tagline: Written guide for simple HTML and CSS 
 actionText: Get Started →
 actionLink: /getting-started/
