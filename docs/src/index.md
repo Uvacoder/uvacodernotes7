@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://uploads-ssl.webflow.com/61304a0f415a76abd1b10571/61304b66a1894087921beb81_skourse-logo.svg
+heroImage: /images/IMG_5783.jpg
 tagline: Written guide for simple HTML and CSS 
 actionText: Get Started →
 actionLink: /getting-started/
